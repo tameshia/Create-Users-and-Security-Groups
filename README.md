@@ -44,5 +44,8 @@
 Now we will create a new global security group titled <b>Human Resources</b> using Powershell. 
 <ul>
   <li><b>New-ADGroup</b> created a new Active Directory group. This new group is created in the Users OU by default.</li>
-  <li><b>-Name</b> specified the group name.</li></ul>
+  <li><b>-Name</b> specified the group name.</li>
+  <li><b>-GroupScope</b> determines how the group is applied to the domain. The three possible domains are: Universal, Global, or Domain Local.</li>
+  <li><b>-GroupCategory</b> specifies the type of group. The two possible options for category are: Security or Distrubution(email).</li>
+</ul>
   
