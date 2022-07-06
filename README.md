@@ -71,6 +71,7 @@ Now we are going to add new Users to our Groups. Click <b> Create a new user in 
   <li>Last name: <b>Carpenter</b></li>
   <li>User logon name: <b>scarpenter</b></li>
 </ul></p>
+
 ![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
 
 <hr>
