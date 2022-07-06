@@ -132,7 +132,11 @@
 <hr>
 
 <p>18. The new user Laura Casado needs to be added to a group. We will add her the the Human Resources group using Powershell using the following command: </p>
-  <b>Add-ADGroupMember -Identity HumanResources -Members lcasado</b>
+  <p><b>Add-ADGroupMember -Identity HumanResources -Members lcasado</b></p>
+  
+ ![addGRP](https://user-images.githubusercontent.com/107451613/177612613-d9f019ef-1ba9-4ed4-9f80-4013ad060b9b.png)
+
+  
   <li><b>Add-ADGroupMember</b> adds a user account to an Active Directory group.</li>
   <li><b>-Identity</b> specified the group name.</li>
   <li><b>-Members</b> specifies the group to which you want to add user account(s).</li>
