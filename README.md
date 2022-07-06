@@ -110,3 +110,16 @@
 </ul></p>
 </p>
 <p> Repeat steps 13 and 14 to add cprince to the <b>Developers</b> and <b>Managers</b> groups. </p>
+
+<hr>
+<p>16. Now we will create another user using PowerShell using the following command:</p>
+<b>New-ADUser -Name lcasado -UserPrincipalName lcasado@securelabsondemand.com -AccountPassword (ConvertTo-SecureString -AsPlainText "P@ssw0rd!" -Force) -GivenName Laura -Surname Casado -Enabled $true </b>
+  <ul>
+  <li><b>New-ADUser</b> creates a new user account in Active Directory.</li>
+  <li><b>-Name</b> specifies the name of the object in Active Directory.</li>
+  <li><b>-UserPrincipalName</b> determines the logon name for the new user</li>
+  <li><b>-AccountPassword</b> specifies a password for the new user account. The account password should be set once the account is created or the account will be disabled until a password is set. A password can be set using the Set-<b>ADAccountPassword</b> cmdlet in a separate step. </li>
+  <li><b>-GivenName</b> sets the user's first name.</li>
+  <li><b>-New-ADUser</b> sets the user's last name.</li>
+  <li><b>-Enabled</b> enables the account ($true) only if a password is set.</li>
+</ul></p>
