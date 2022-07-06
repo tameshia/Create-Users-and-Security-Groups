@@ -30,3 +30,9 @@
 <p>Locate the <b>Users</b> container to see a list of all the existing users and groups in the domain. 
   
 ![ADUsers](https://user-images.githubusercontent.com/107451613/177580324-3b33cbd8-9a4a-4058-9010-5edb680f2589.png)
+  
+  <hr>
+<p> Click the <b> Create a new group in the current container</b> on the Active Directory Users and Computers toolbar. This will open the New Object-Group dialog box.
+  ![NU](https://user-images.githubusercontent.com/107451613/177581470-966a7695-01bb-40b4-9ce6-5c1cfd405b3e.png)
+<hr>
+
