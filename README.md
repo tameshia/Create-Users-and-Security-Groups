@@ -17,3 +17,7 @@
 <p>Select <b>Tools</b> from the Server Manager menu bar, then select <b>Active Directory Users and Computers</b>.
 
 ![ADUC](https://user-images.githubusercontent.com/107451613/177578610-469e2b16-28d0-435e-b210-ee9822ee1f04.png)
+
+<p>In the left pane of the <b>Active Directory Users and Computers</b>console, expand the domain to show all objects in the domain. In this case, the domain is the <b>securelabsondemand.com</b> domain. 
+  
+![SLODD](https://user-images.githubusercontent.com/107451613/177579823-45945717-bc82-46bf-903b-000cd57bb349.png)
