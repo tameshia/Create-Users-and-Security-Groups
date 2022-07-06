@@ -65,7 +65,7 @@ Now we are going to add new Users to our Groups. Click <b> Create a new user in 
 ![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
 
 <hr>
-<p>In the <b>New Object - User</b> dialog box, type the following:
+<p>In the <b>New Object - User</b> dialog box, type the following information, then click <b>Next</b>.
 <ul>
   <li>First name: <b>Sam</b></li>
   <li>Last name: <b>Carpenter</b></li>
@@ -75,3 +75,9 @@ Now we are going to add new Users to our Groups. Click <b> Create a new user in 
 ![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
 
 <hr>
+<p>For the password, type the following information:
+<ul>
+  <li>Password: <b>P@ssw0rd!</b></li>
+  <li>Confirm password:<b>P@ssw0rd!</b></li>
+</ul></p>
+![PW](https://user-images.githubusercontent.com/107451613/177596549-2cbb4b3d-b8a5-42ce-925f-9354c01888b3.png)
