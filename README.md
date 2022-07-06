@@ -59,3 +59,6 @@ At the PowerShell prompt, type <b>New-ADGroup -Name HumanResources -GroupScope G
 Restore the <b>Active Directory Users and Computer</b> window. Locate and right-click an empty area in the right pane, and click <b>Refresh</b> to verify that the new HumanResources group was added to the Users OU. </p>
 ![Refresh](https://user-images.githubusercontent.com/107451613/177588163-c8117525-c96d-4778-9427-030a4b8322bd.png)
 <hr>
+Now we are going to add new Users to our Groups. Click <b> Create a new user in the current container</b> button to open the New Object - User dialog box.
+![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
+<hr>
