@@ -125,6 +125,6 @@
   <li><b>-Enabled</b> enables the account ($true) only if a password is set.</li>
 </ul></p>
 <hr>
-<p>17. At the PowerShell prompt, type <b>New-ADUser -Name lcasado -UserPrincipalName lcasado@securelabsondemand.com -AccountPassword (ConvertTo-SecureString -AsPlainText "P@ssw0rd!" -Force) -GivenName Laura -Surname Casado -Enabled $true</b> and press Enter to create the lcasado account.
+<p>17. At the PowerShell prompt, type <p><b>New-ADUser -Name lcasado -UserPrincipalName lcasado@securelabsondemand.com -AccountPassword (ConvertTo-SecureString -AsPlainText "P@ssw0rd!" -Force) -GivenName Laura -Surname Casado -Enabled $true</b></p> and press Enter to create the lcasado account.
   
   ![lcasso](https://user-images.githubusercontent.com/107451613/177608307-08e7c0b0-9222-4a14-bce3-0ca8faacb4de.png)
