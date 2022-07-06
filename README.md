@@ -81,6 +81,6 @@ Now we are going to add new Users to our Groups. Click <b> Create a new user in 
   <li>Confirm password:<b>P@ssw0rd!</b></li>
 </ul></p>
 
-![PW](https://user-images.githubusercontent.com/107451613/177596549-2cbb4b3d-b8a5-42ce-925f-9354c01888b3.png)
+![PW](https://user-images.githubusercontent.com/107451613/177596549-2cbb4b3d-b8a5-42ce-925f-9354c01888b3.png)![uncheck](https://user-images.githubusercontent.com/107451613/177597712-04e90475-09af-4b11-b913-3fbd24e6b4ef.png)
 
 <hr>
