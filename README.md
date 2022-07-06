@@ -128,3 +128,12 @@
 <p>17. Now we will create an account for Laura Casado. At the PowerShell prompt, type the following then press enter: <p><b>New-ADUser -Name lcasado -UserPrincipalName lcasado@securelabsondemand.com -AccountPassword (ConvertTo-SecureString -AsPlainText "P@ssw0rd!" -Force) -GivenName Laura -Surname Casado -Enabled $true</b></p>
   
   ![lcasso](https://user-images.githubusercontent.com/107451613/177608307-08e7c0b0-9222-4a14-bce3-0ca8faacb4de.png)
+
+<p>18. The new user Laura Casado needs to be added to a group. We will add her the the Human Resources group using Powershell using the following command: </p>
+  <b>Add-ADGroupMember -Identity HumanResources -Members lcasado</b>
+  <li><b>Add-ADGroupMember</b> adds a user account to an Active Directory group.</li>
+  <li><b>-Identity</b> specified the group name.</li>
+  <li><b>-Members</b> specifies the group to which you want to add user account(s).</li>
+  <li><b>-GroupCategory</b> dentifies the user(s) that will be added to the group.</li>
+</ul></p>
+  <hr>
