@@ -36,4 +36,4 @@
   
   ![NU](https://user-images.githubusercontent.com/107451613/177581470-966a7695-01bb-40b4-9ce6-5c1cfd405b3e.png)
 <hr>
-
+<p>In the New Object - Group dialog box, type <b>Developers</b> in the <b>Group name:</b> box.
