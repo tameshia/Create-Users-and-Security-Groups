@@ -50,18 +50,18 @@
 </ul></p>
   <hr>
 
-7. At the PowerShell prompt, type <b>New-ADGroup -Name HumanResources -GroupScope Global -GroupCategory Security</b> then press Enter to create the new group. 
+<p>7. At the PowerShell prompt, type <b>New-ADGroup -Name HumanResources -GroupScope Global -GroupCategory Security</b> then press Enter to create the new group. </p>
 
 ![ADCom](https://user-images.githubusercontent.com/107451613/177585872-96c7e6d1-f59b-46bf-a295-bc404373c16c.png)
 
 <hr>
 
-8. Restore the <b>Active Directory Users and Computer</b> window. Locate and right-click an empty area in the right pane, and click <b>Refresh</b> to verify that the new HumanResources group was added to the Users OU. </p>
+<p>8. Restore the <b>Active Directory Users and Computer</b> window. Locate and right-click an empty area in the right pane, and click <b>Refresh</b> to verify that the new HumanResources group was added to the Users OU. </p>
 ![Refresh](https://user-images.githubusercontent.com/107451613/177588163-c8117525-c96d-4778-9427-030a4b8322bd.png)
 
 <hr>
 
-9. Now we are going to add new Users to our Groups. Click <b> Create a new user in the current container</b> icon to open the New Object - User dialog box.<p>
+<p>9. Now we are going to add new Users to our Groups. Click <b> Create a new user in the current container</b> icon to open the New Object - User dialog box.</p>
 ![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
 
 <hr>
@@ -80,7 +80,7 @@
   <li>Password: <b>P@ssw0rd!</b></li>
   <li>Confirm password:<b>P@ssw0rd!</b></li>
 </ul></p>
-<p>Uncheck <b>User must change password at next logon</b> checkbox, then click <b>Next</b> to continue. 
+<p>Uncheck <b>User must change password at next logon</b> checkbox, then click <b>Next</b> to continue.</p> 
 
 ![PW](https://user-images.githubusercontent.com/107451613/177596549-2cbb4b3d-b8a5-42ce-925f-9354c01888b3.png)![uncheck](https://user-images.githubusercontent.com/107451613/177597712-04e90475-09af-4b11-b913-3fbd24e6b4ef.png)
 
@@ -109,4 +109,4 @@
   <li>User logon name: <b>cprince</b></li>
 </ul></p>
 </p>
-<p> Repeat steps 13 and 14 to add cprince to the <b>Developers</b> and <b>Managers</b> groups. 
+<p> Repeat steps 13 and 14 to add cprince to the <b>Developers</b> and <b>Managers</b> groups. </p>
