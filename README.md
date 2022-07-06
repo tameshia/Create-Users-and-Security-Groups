@@ -44,7 +44,7 @@
 <p>6. Now we will create a new global security group titled <b>Human Resources</b> using Powershell. 
 <ul>
   <li><b>New-ADGroup</b> created a new Active Directory group. This new group is created in the Users OU by default.</li>
-  <li><b>-Name</b> specified the group name.</li>
+  <li><b>-Name</b> specifies the group name.</li>
   <li><b>-GroupScope</b> determines how the group is applied to the domain. The three possible domains are: Universal, Global, or Domain Local.</li>
   <li><b>-GroupCategory</b> specifies the type of group. The two possible options for category are: Security or Distrubution(email).</li>
 </ul></p>
@@ -138,8 +138,9 @@
 
   
   <li><b>Add-ADGroupMember</b> adds a user account to an Active Directory group.</li>
-  <li><b>-Identity</b> specified the group name.</li>
+  <li><b>-Identity</b> specifies the group name.</li>
   <li><b>-Members</b> specifies the group to which you want to add user account(s).</li>
   <li><b>-GroupCategory</b> dentifies the user(s) that will be added to the group.</li>
 </ul></p>
   <hr>
+<p>19. Restore the <b>Active Directory Users and Computer</b> window. Locate and right-click an empty area in the right pane, and click <b>Refresh</b> to verify that the new user, lcasado was added to the Users OU and is a member of Human Resources group. </p>
