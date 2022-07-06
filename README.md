@@ -12,7 +12,7 @@
 <h2>Directions</h2>
     <p>From the Windows Server taskbar, click <b>Server Manager</b> icon, to open the Server Manager application.</p>
 
-![server manager icon](https://user-images.githubusercontent.com/107451613/177577215-136b235a-7600-40f6-a6bf-a7a5813decbc.png)
+![server manager icon](https://user-images.githubusercontent.com/107451613/177577215-136b235a-7600-40f6-a6bf-a7a5813decbc.png). 
 
 <p>Select <b>Tools</b> from the Server Manager menu bar, then select <b>Active Directory Users and Computers</b>.
 
