@@ -16,23 +16,23 @@
 
 <hr>
 
-<p>Select <b>Tools</b> from the Server Manager menu bar, then select <b>Active Directory Users and Computers</b>.
+<p>1. Select <b>Tools</b> from the Server Manager menu bar, then select <b>Active Directory Users and Computers</b>.
 
 ![ADUC](https://user-images.githubusercontent.com/107451613/177578610-469e2b16-28d0-435e-b210-ee9822ee1f04.png)
 
   <hr>
-<p>In the left pane of the <b>Active Directory Users and Computers</b>console, expand the domain to show all objects in the domain. In this case, the domain is the <b>securelabsondemand.com</b> domain. 
+<p>2. In the left pane of the <b>Active Directory Users and Computers</b>console, expand the domain to show all objects in the domain. In this case, the domain is the <b>securelabsondemand.com</b> domain. 
   
 ![SLODD](https://user-images.githubusercontent.com/107451613/177579823-45945717-bc82-46bf-903b-000cd57bb349.png)
   
   <hr>
 
-<p>Locate the <b>Users</b> container to see a list of all the existing users and groups in the domain. 
+<p>3. Locate the <b>Users</b> container to see a list of all the existing users and groups in the domain. 
   
 ![ADUsers](https://user-images.githubusercontent.com/107451613/177580324-3b33cbd8-9a4a-4058-9010-5edb680f2589.png)
   
   <hr>
-<p> Click the <b> Create a new group in the current container</b> on the Active Directory Users and Computers toolbar. This will open the New Object-Group dialog box.
+<p>4. Click the <b> Create a new group in the current container</b> on the Active Directory Users and Computers toolbar. This will open the New Object-Group dialog box.
   
   ![NU](https://user-images.githubusercontent.com/107451613/177581470-966a7695-01bb-40b4-9ce6-5c1cfd405b3e.png)
 <hr>
