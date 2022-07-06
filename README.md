@@ -48,4 +48,9 @@ Now we will create a new global security group titled <b>Human Resources</b> usi
   <li><b>-GroupScope</b> determines how the group is applied to the domain. The three possible domains are: Universal, Global, or Domain Local.</li>
   <li><b>-GroupCategory</b> specifies the type of group. The two possible options for category are: Security or Distrubution(email).</li>
 </ul>
-  
+  <hr>
+
+At the PowerShell prompt, type <b>New-ADGroup -Name HumanResources -GroupScope Global -GroupCategory Security</b> then press Enter to greate the new group. 
+
+![ADCom](https://user-images.githubusercontent.com/107451613/177585872-96c7e6d1-f59b-46bf-a295-bc404373c16c.png)
+
