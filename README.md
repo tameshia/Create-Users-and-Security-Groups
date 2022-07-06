@@ -12,8 +12,3 @@
 <h2>Directions</h2>
     <p>From the Windows Server taskbar, click <b>Server Manager</b> icon, to open the Server Manager application.</p>
     ![server manager icon](https://user-images.githubusercontent.com/107451613/177577215-136b235a-7600-40f6-a6bf-a7a5813decbc.png)
-
-    <hr>
-    <p>Locate <b>Tools</b> on the Server Manager menu bar 
-    
-    click on the <b>Server Manager</b> button. This will open the Server Manager application.</p>
