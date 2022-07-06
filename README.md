@@ -85,24 +85,24 @@
 ![PW](https://user-images.githubusercontent.com/107451613/177596549-2cbb4b3d-b8a5-42ce-925f-9354c01888b3.png)![uncheck](https://user-images.githubusercontent.com/107451613/177597712-04e90475-09af-4b11-b913-3fbd24e6b4ef.png)
 
 <hr>
-<p>Click <b>Finish</b> to create the account for the new user.</p>
+<p>12. Click <b>Finish</b> to create the account for the new user.</p>
 
 ![NewAcc](https://user-images.githubusercontent.com/107451613/177598138-523f89d9-334c-42e5-a41c-99104d3ca1aa.png)
 
 <hr>
-<p>In the Users list, right-click the <b>Sam Carpenter</b> user account and select <b>Add to a group</b> </p>
+<p>13. In the Users list, right-click the <b>Sam Carpenter</b> user account and select <b>Add to a group</b> </p>
 
 ![AddtoGroup](https://user-images.githubusercontent.com/107451613/177602581-49cf9afa-3dcc-435e-9f89-79b76cd9523c.png)
 
 <hr>
 
-<p>In the Select Group dialog box, type <b>Developers</b> in the <b>Enter the object name to select</b> box, then click <b>Check Names</b> to confirm that the group exists and check spelling. Click <b>OK</b> to complete the process. Click <b>OK</b> to close the success dialog box. </p>
+<p>14. In the Select Group dialog box, type <b>Developers</b> in the <b>Enter the object name to select</b> box, then click <b>Check Names</b> to confirm that the group exists and check spelling. Click <b>OK</b> to complete the process. Click <b>OK</b> to close the success dialog box. </p>
 
 
 ![Dev](https://user-images.githubusercontent.com/107451613/177603444-896d0f6d-cd45-4c20-9246-684810bf2d98.png)
 
 
-<p>Repeat these steps to create a user with the following:
+<p>15. Repeat these steps to create a user with the following:
   <ul>
   <li>First name: <b>Carl</b></li>
   <li>Last name: <b>Prince</b></li>
