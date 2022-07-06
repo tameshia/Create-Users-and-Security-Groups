@@ -61,7 +61,16 @@ Restore the <b>Active Directory Users and Computer</b> window. Locate and right-
 
 <hr>
 
-Now we are going to add new Users to our Groups. Click <b> Create a new user in the current container</b> button to open the New Object - User dialog box.<p>
+Now we are going to add new Users to our Groups. Click <b> Create a new user in the current container</b> icon to open the New Object - User dialog box.<p>
+![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
+
+<hr>
+In the <b>New Object - User</b> dialog box, type the following:
+<ul>
+  <li>First name: <b>Sam</b></li>
+  <li>Last name: <b>Carpenter</b></li>
+  <li>User logon name: <b>scarpenter</b></li>
+</ul>
 ![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
 
 <hr>
