@@ -36,12 +36,12 @@
   
   ![NU](https://user-images.githubusercontent.com/107451613/177581470-966a7695-01bb-40b4-9ce6-5c1cfd405b3e.png)
 <hr>
-<p>In the New Object - Group dialog box, type <b>Developers</b> in the <b>Group name:</b> box. Set the group scope to <b>Global</b> and the group type to <b>Security</b>. Once this is complete, create a new global security group named <b>Managers</b>.
+<p>5. In the New Object - Group dialog box, type <b>Developers</b> in the <b>Group name:</b> box. Set the group scope to <b>Global</b> and the group type to <b>Security</b>. Once this is complete, create a new global security group named <b>Managers</b>.
   
 ![NewOb](https://user-images.githubusercontent.com/107451613/177581932-29f93495-29b5-47f6-bcc2-789334c93563.png)
   
   <hr>
-Now we will create a new global security group titled <b>Human Resources</b> using Powershell. 
+5. Now we will create a new global security group titled <b>Human Resources</b> using Powershell. 
 <ul>
   <li><b>New-ADGroup</b> created a new Active Directory group. This new group is created in the Users OU by default.</li>
   <li><b>-Name</b> specified the group name.</li>
