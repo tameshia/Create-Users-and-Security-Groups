@@ -95,3 +95,6 @@ Now we are going to add new Users to our Groups. Click <b> Create a new user in 
 ![AddtoGroup](https://user-images.githubusercontent.com/107451613/177602581-49cf9afa-3dcc-435e-9f89-79b76cd9523c.png)
 
 <hr>
+
+In the Select Group dialog box, type <b>Developers</b> in the <b>Enter the object name to select</b> box, then click <b>Check Names</b> to confirm that the group exists and check spelling. Click <b>OK</b> to complete the process. Click <b>OK</b> to close the success dialog box. 
+![Dev](https://user-images.githubusercontent.com/107451613/177603444-896d0f6d-cd45-4c20-9246-684810bf2d98.png)
