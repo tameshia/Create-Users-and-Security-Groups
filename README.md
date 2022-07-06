@@ -80,7 +80,13 @@ Now we are going to add new Users to our Groups. Click <b> Create a new user in 
   <li>Password: <b>P@ssw0rd!</b></li>
   <li>Confirm password:<b>P@ssw0rd!</b></li>
 </ul></p>
+<p>Uncheck <b>User must change password at next logon</b> checkbox, then click <b>Next</b> to continue. 
 
 ![PW](https://user-images.githubusercontent.com/107451613/177596549-2cbb4b3d-b8a5-42ce-925f-9354c01888b3.png)![uncheck](https://user-images.githubusercontent.com/107451613/177597712-04e90475-09af-4b11-b913-3fbd24e6b4ef.png)
+
+<hr>
+<p>Click <b>Finish</b> to create the account for the new user.</p>
+
+![NewAcc](https://user-images.githubusercontent.com/107451613/177598138-523f89d9-334c-42e5-a41c-99104d3ca1aa.png)
 
 <hr>
