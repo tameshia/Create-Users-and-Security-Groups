@@ -109,3 +109,4 @@
   <li>User logon name: <b>cprince</b></li>
 </ul></p>
 </p>
+<p> Repeat steps 13 and 14 to add cprince to the <b>Developers</b> and <b>Managers</b> groups. 
