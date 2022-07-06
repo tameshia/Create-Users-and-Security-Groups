@@ -113,7 +113,8 @@
 
 <hr>
 <p>16. Now we will create another user using PowerShell using the following command:</p>
-<b>New-ADUser -Name lcasado -UserPrincipalName lcasado@securelabsondemand.com -AccountPassword (ConvertTo-SecureString -AsPlainText "P@ssw0rd!" -Force) -GivenName Laura -Surname Casado -Enabled $true </b>
+<b>New-ADUser -Name lcasado -UserPrincipalName lcasado@securelabsondemand.com -AccountPassword (ConvertTo-SecureString -AsPlainText "P@ssw0rd!" -Force) -GivenName Laura -Surname Casado -Enabled $true </b></p>
+<p>
   <ul>
   <li><b>New-ADUser</b> creates a new user account in Active Directory.</li>
   <li><b>-Name</b> specifies the name of the object in Active Directory.</li>
