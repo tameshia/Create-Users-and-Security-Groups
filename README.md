@@ -90,3 +90,8 @@ Now we are going to add new Users to our Groups. Click <b> Create a new user in 
 ![NewAcc](https://user-images.githubusercontent.com/107451613/177598138-523f89d9-334c-42e5-a41c-99104d3ca1aa.png)
 
 <hr>
+<p>In the Users list, right-click the <b>Sam Carpenter</b> user account and select <b>Add to a group</b> </p>
+
+![AddtoGroup](https://user-images.githubusercontent.com/107451613/177602581-49cf9afa-3dcc-435e-9f89-79b76cd9523c.png)
+
+<hr>
