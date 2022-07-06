@@ -50,7 +50,7 @@ Now we will create a new global security group titled <b>Human Resources</b> usi
 </ul>
   <hr>
 
-At the PowerShell prompt, type <b>New-ADGroup -Name HumanResources -GroupScope Global -GroupCategory Security</b> then press Enter to greate the new group. 
+At the PowerShell prompt, type <b>New-ADGroup -Name HumanResources -GroupScope Global -GroupCategory Security</b> then press Enter to create the new group. 
 
 ![ADCom](https://user-images.githubusercontent.com/107451613/177585872-96c7e6d1-f59b-46bf-a295-bc404373c16c.png)
 
