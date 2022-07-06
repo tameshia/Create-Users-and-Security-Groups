@@ -54,6 +54,8 @@ At the PowerShell prompt, type <b>New-ADGroup -Name HumanResources -GroupScope G
 
 ![ADCom](https://user-images.githubusercontent.com/107451613/177585872-96c7e6d1-f59b-46bf-a295-bc404373c16c.png)
 
+<hr>
+
 Restore the <b>Active Directory Users and Computer</b> window. Locate and right-click an empty area in the right pane, and click <b>Refresh</b> to verify that the new HumanResources group was added to the Users OU. 
 ![Refresh](https://user-images.githubusercontent.com/107451613/177588163-c8117525-c96d-4778-9427-030a4b8322bd.png)
 <hr>
