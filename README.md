@@ -144,3 +144,9 @@
 </ul></p>
   <hr>
 <p>19. Restore the <b>Active Directory Users and Computer</b> window. Locate and right-click an empty area in the right pane, and click <b>Refresh</b> to verify that the new user, lcasado was added to the Users OU and is a member of Human Resources group. </p>
+
+<hr>
+
+<p>20. At the PowerShell prompt, type <b>gpupdate /force</b> and press Enter to force an immediate update of all group policies on the domain controller. The system will generate a confirmation message indicating that the Computer and User Policy update has been updated successfully.
+
+![Force](https://user-images.githubusercontent.com/107451613/177613747-ec7c0040-f793-4806-8daf-8d713865cac1.png)
