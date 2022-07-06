@@ -61,7 +61,7 @@ Restore the <b>Active Directory Users and Computer</b> window. Locate and right-
 
 <hr>
 
-Now we are going to add new Users to our Groups. Click <b> Create a new user in the current container</b> button to open the New Object - User dialog box.
+Now we are going to add new Users to our Groups. Click <b> Create a new user in the current container</b> button to open the New Object - User dialog box.<p>
 ![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
 
 <hr>
