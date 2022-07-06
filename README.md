@@ -41,7 +41,7 @@
 ![NewOb](https://user-images.githubusercontent.com/107451613/177581932-29f93495-29b5-47f6-bcc2-789334c93563.png)
   
   <hr>
-5. Now we will create a new global security group titled <b>Human Resources</b> using Powershell. 
+6. Now we will create a new global security group titled <b>Human Resources</b> using Powershell. 
 <ul>
   <li><b>New-ADGroup</b> created a new Active Directory group. This new group is created in the Users OU by default.</li>
   <li><b>-Name</b> specified the group name.</li>
@@ -50,22 +50,22 @@
 </ul>
   <hr>
 
-At the PowerShell prompt, type <b>New-ADGroup -Name HumanResources -GroupScope Global -GroupCategory Security</b> then press Enter to create the new group. 
+7. At the PowerShell prompt, type <b>New-ADGroup -Name HumanResources -GroupScope Global -GroupCategory Security</b> then press Enter to create the new group. 
 
 ![ADCom](https://user-images.githubusercontent.com/107451613/177585872-96c7e6d1-f59b-46bf-a295-bc404373c16c.png)
 
 <hr>
 
-Restore the <b>Active Directory Users and Computer</b> window. Locate and right-click an empty area in the right pane, and click <b>Refresh</b> to verify that the new HumanResources group was added to the Users OU. </p>
+8. Restore the <b>Active Directory Users and Computer</b> window. Locate and right-click an empty area in the right pane, and click <b>Refresh</b> to verify that the new HumanResources group was added to the Users OU. </p>
 ![Refresh](https://user-images.githubusercontent.com/107451613/177588163-c8117525-c96d-4778-9427-030a4b8322bd.png)
 
 <hr>
 
-Now we are going to add new Users to our Groups. Click <b> Create a new user in the current container</b> icon to open the New Object - User dialog box.<p>
+9. Now we are going to add new Users to our Groups. Click <b> Create a new user in the current container</b> icon to open the New Object - User dialog box.<p>
 ![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
 
 <hr>
-<p>In the <b>New Object - User</b> dialog box, type the following information, then click <b>Next</b>.
+<p>10. In the <b>New Object - User</b> dialog box, type the following information, then click <b>Next</b>.
 <ul>
   <li>First name: <b>Sam</b></li>
   <li>Last name: <b>Carpenter</b></li>
@@ -75,7 +75,7 @@ Now we are going to add new Users to our Groups. Click <b> Create a new user in 
 ![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
 
 <hr>
-<p>For the password, type the following information:
+<p>11. For the password, type the following information:
 <ul>
   <li>Password: <b>P@ssw0rd!</b></li>
   <li>Confirm password:<b>P@ssw0rd!</b></li>
