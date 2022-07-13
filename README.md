@@ -36,6 +36,7 @@
   
   ![NU](https://user-images.githubusercontent.com/107451613/177581470-966a7695-01bb-40b4-9ce6-5c1cfd405b3e.png)
 <hr>
+
 <p>5. In the New Object - Group dialog box, type <b>Developers</b> in the <b>Group name:</b> box. Set the group scope to <b>Global</b> and the group type to <b>Security</b>. Once this is complete, create a new global security group named <b>Managers</b>.
   
 ![NewOb](https://user-images.githubusercontent.com/107451613/177581932-29f93495-29b5-47f6-bcc2-789334c93563.png)
@@ -57,11 +58,13 @@
 <hr>
 
 <p>8. Restore the <b>Active Directory Users and Computer</b> window. Locate and right-click an empty area in the right pane, and click <b>Refresh</b> to verify that the new HumanResources group was added to the Users OU. </p>
+
 ![Refresh](https://user-images.githubusercontent.com/107451613/177588163-c8117525-c96d-4778-9427-030a4b8322bd.png)
 
 <hr>
 
 <p>9. Now we are going to add new Users to our Groups. Click <b> Create a new user in the current container</b> icon to open the New Object - User dialog box.</p>
+
 ![NewU](https://user-images.githubusercontent.com/107451613/177589984-74ac04bb-be86-4084-845d-433ae9d56b9c.png)
 
 <hr>
